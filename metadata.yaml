@@ -12,12 +12,17 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: archival
+  image_path: 54807-h/images/cover.jpg
 creator:
   author:
     agent_name: Chateaubriand, François René
     gutenberg_agent_id: '48052'
     url: http://www.gutenberg.org/2009/agents/48052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54807#The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-volume-3_
 gutenberg_issued: '2017-05-29'
 gutenberg_type: Text
 identifiers:
