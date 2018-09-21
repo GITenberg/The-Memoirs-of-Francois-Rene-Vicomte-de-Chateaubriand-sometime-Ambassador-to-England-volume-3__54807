@@ -1,0 +1,35 @@
+_repo: The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-volume-3__54807
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - De Mattos, Alexander Teixeira
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixeira de
+    - Mattos, Alexander Teixera de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+creator:
+  author:
+    agent_name: Chateaubriand, François René
+    gutenberg_agent_id: '48052'
+    url: http://www.gutenberg.org/2009/agents/48052
+description: ''
+gutenberg_issued: '2017-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador
+  to England. volume 3 (of 6)
+
+  Mémoires d''outre-tombe volume 3'
+url: http://www.gutenberg.org/ebooks/54807
